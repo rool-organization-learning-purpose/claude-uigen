@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../01_LIPTON/Repositories"
+		},
+		{
+			"path": "../../../01_LIPTON/Tasks"
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen"
+	}
+}
