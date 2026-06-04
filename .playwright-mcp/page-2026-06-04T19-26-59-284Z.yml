@@ -1,0 +1,37 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e58]: Create a simple user profile card with an avatar, name, role, and a follow button
+            - img [ref=e61]
+          - generic [ref=e64]:
+            - img [ref=e67]
+            - generic [ref=e72]:
+              - generic [ref=e75]: Creating /App.jsx
+              - separator [ref=e76]
+              - generic [ref=e77]:
+                - paragraph [ref=e78]: "Done! Created a user profile card with:"
+                - list [ref=e79]:
+                  - listitem [ref=e80]: Avatar image
+                  - listitem [ref=e81]: Name and role
+                  - listitem [ref=e82]: Follow button that toggles between "Follow" and "Following" states
+                  - listitem [ref=e83]: Styled with Tailwind CSS
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [selected] [ref=e32]
+          - tab "Code" [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - iframe [ref=e84]:
+        
+  - alert [ref=e48]
