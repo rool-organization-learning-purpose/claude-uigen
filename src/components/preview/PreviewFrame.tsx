@@ -155,6 +155,11 @@ export function PreviewFrame() {
       ref={iframeRef}
       className="w-full h-full border-0 bg-white"
       title="Preview"
+      onMouseLeave={() => {
+        if (document.activeElement === iframeRef.current) {
+          iframeRef.current?.blur();
+        }
+      }}
     />
   );
 }
